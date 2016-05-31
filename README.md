@@ -4,6 +4,7 @@ A translation in Simplified Chinese for RFC 6750-The OAuth 2.0 Authorization Fra
 
 
 
-***英文版***
+### 英文版
 
-https://gist.github.com/chitsaou/6591290
+* https://gist.github.com/chitsaou/6591290
+* http://self-issued.info/docs/draft-ietf-oauth-json-web-token.html
